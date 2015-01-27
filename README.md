@@ -2,7 +2,7 @@
 
 > Install Bower packages. Smartly.
 
-**Fork: uses cns-bower instead of bower** 
+**Fork: uses cns-bower instead of bower**
 
 ## Getting Started
 _If you haven't used [grunt][] before, be sure to check out the [Getting Started][] guide._
